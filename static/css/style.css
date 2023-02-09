@@ -1,0 +1,340 @@
+/*header*/
+a{
+    color: black;
+}
+header{
+    border-bottom: 1px solid black;
+}
+.main_logo{
+    display: inline-block;
+    margin-top: 25px;
+    margin-left: 126px;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 37.03px;
+}
+.home_header{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 500px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+}
+.contact_header{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 151px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+}
+.about_header{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 51px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+  
+}
+.blog_header{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 52px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+  
+}
+.contact_header{
+    display: inline-block;
+    margin-top: 30px;
+    margin-left: 52px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+  
+}
+.profile_icon_img{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin-left: 95%;
+}
+
+
+nav{
+    padding: 30px 0px ;
+   
+}
+
+/*main*/
+
+.main_title{
+    text-align: center;
+    margin-top: 72px;
+    margin-bottom: 65px;
+    font-size: 24px;
+    font-weight: 600;
+   
+}
+.title{
+    font-family: 'Poppins', sans-serif;
+}
+.content{
+    border: 2px solid black;
+    display: inline-block;
+    padding: 10px 10px 25px 10px;
+    width: 333px;
+   
+}
+.content img{
+    width: 100%;
+}
+.content h3{
+    font-size: 16px;
+    margin-top: 20px;
+    margin-left: 26px;
+    margin-bottom: 19px;
+    
+}
+.content p{
+    font-size: 14px;
+    margin-left: 26px;
+    margin-bottom: 22px;
+    
+}
+
+.first_button{
+    text-align: right;
+    margin-top: 29px;
+    margin-bottom: 68px;
+    font-size: 12px;
+    line-height: 18px;
+
+}
+
+.product_wrapper{
+    display: inline-block;
+    margin-left: 126px;
+}
+.foother_ul li{
+    margin-bottom: 10px;
+}
+.footer_middle{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.foother_li_seemore{
+    text-align: right;
+    text-decoration: underline;
+}
+.main_see_more{
+    font-weight: 350;
+    font-size: 16px;
+    line-height:21.12px;
+    margin-left: 43%;
+}
+
+/*contact Page*/
+.contact_title{
+    font-weight: 600;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 85px;
+    margin-bottom: 132px;
+    color:#7D0000;
+    font-family: 'Poppins', sans-serif;
+}
+.contact_wrapper{
+    width: 908px;
+    margin: auto;
+}
+.contact_first_address{
+    width: 300px;
+    float: left;
+    Weight: 600;
+    font-size: 27px;
+    line-height: 31.78px;
+}
+.contact_second_address{
+    width: 300px;
+    float: right;
+    Weight: 600;
+    font-size: 27px;
+    line-height: 31.78px;
+}
+.contact_first_li{
+    margin-bottom: 34px;
+}
+.contact_second_li{
+    margin-bottom: 34px;
+}
+
+.map{
+    margin-left: 122px;
+    margin-top: 361px;
+}
+
+/*about Page*/
+.about_wrapper{
+    width: 1770px;
+}
+.about_title{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 134px;
+}
+
+.about_content{
+    display: inline-block;
+    margin-left: 100px;
+}
+.about_paragraph{
+    font-weight:600;
+    font-size: 25px;
+    line-height: 41.25px;
+    Width: 650px;
+    Height: 205px;
+    margin-top: 115px;
+    margin-left: 126px;
+}
+
+.about_address{
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 29px;
+    margin-top: 89px;
+    margin-left: 434px;
+}
+
+.about_img_div{
+    display: inline-block;
+    margin-left: 60px;
+    width: 500px;
+    height: 333.33px;
+    border-radius: 20px;
+}
+
+
+/*Blog page*/
+.blog_title{
+    text-align: left;
+    margin-top: 72px;
+    margin-bottom: 65px;
+    font-size: 24px;
+    font-weight: 600;
+    margin-left: 94px;
+}
+.blog_li li{
+    margin-left: 65px;
+    display: inline-block;
+}
+.blog_li{
+    margin-left: 445px;
+}
+.first_card{
+    display: inline-block;
+    width: 1480px;
+    margin-left: 100px;
+    margin-bottom: 70px;
+    margin-top: 70px;
+}
+
+.blog_first_img, img{
+    display: inline-block;
+    width: 308px;
+    height: 248px;
+}
+.blog_texts{
+    display: inline-block;
+    width: 718px;
+    margin-left: 20px;
+    background-color: #E5EBE5;
+}
+
+.card_title1{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    margin-bottom: 130px;
+    margin-left: 25px;
+}
+.card_p1{
+    font-weight: 350;
+    font-size: 14px;
+    line-height: 17px;
+    margin-left: 25px;
+}
+.blog_button{
+    margin-top: 26px;
+    margin-left: 890px;
+}
+
+/*Profile Page*/
+
+.profile_wrapper{
+    margin-top: 256px;
+    margin-left: 206px;
+}
+.profile_info{
+    display: inline-block;
+    width: 300px;
+    margin-left: 25px;
+}
+.profile_foto{
+    display: inline-block;
+    width: 170px;
+    height: 170.81px;
+}
+.profile_box{
+    display: inline-block;
+}
+.profile_name{
+    display:  inline-block;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;  
+    margin-bottom: 20px;   
+}
+.profile_status{
+    display:  inline-block;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;     
+}
+.Profile_about{
+    border-bottom: 2px solid rgb(206, 13, 13);
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 96px;
+    display: inline-block;
+    margin-bottom: 74px;
+}
+
+.profile_li1{
+    display: inline-block;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+.profile_li2{
+    display: inline-block;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left: 163px;
+    margin-bottom: 30px;
+}
+.profile_button{
+    display: block;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 38px;
+    background-color: #87AC87;
+    margin-left: 700px;
+}
